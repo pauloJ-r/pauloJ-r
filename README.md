@@ -4,7 +4,7 @@
 <h3> About Me <h3>
   
 - ⚡ I`m Paulo Junior
-- 📍 I'm from Brazil I live in Pernambuco 🇧🇷
+- 📍 I'm from Brazil I live in Pernambuco 
 - 🎓 I'm a web development student at the Federal Institute of Education, Science and Technology of Pernambuco (IFPE)
 
 
