@@ -1,7 +1,7 @@
 <h1> Hello World 👋 <h1>
 
 
-# About Me
+<h3> About Me <h3>
 - ⚡ I`m Paulo Junior
 - 😄 My pronouns: him / his
 - 📍 I'm from Brazil I live in Pernambuco 🇧🇷
