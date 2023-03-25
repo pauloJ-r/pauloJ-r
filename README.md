@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-#- About Me
+# About Me
 - ⚡ I`m Paulo Junior
 - 😄 My pronouns: him / his
 - 📍 I'm from Brazil I live in Pernambuco 🇧🇷
