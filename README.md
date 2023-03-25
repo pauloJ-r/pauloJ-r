@@ -12,8 +12,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloJ-r&show_icons=true&icon_color=80ff1f&bg_color=282c34&title_color=80ff1f&text_color=ffffff&border_color=80ff1f&line_height=24&hide=prs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloJ-r&langs_count=6&layout=compact&bg_color=282c34&title_color=80ff1f&text_color=ffffff&border_color=80ff1f)
 
-  <div>
+  <div><center>
     <a href="https://www.instagram.com/paulojr_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    ![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
-    <div>
-     
+   <center><div>
