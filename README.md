@@ -1,6 +1,6 @@
 <h1> Hello World 👋 <h1>
 
-<h3> About Me <h3>
+<h3> About Me : <h3>
   
 - ⚡ I`m Paulo Junior
 - 📍 I'm from Brazil I live in Pernambuco 
@@ -12,11 +12,11 @@
 
 
 
-  <div>
-  <h3>Social Media<h3>
+  
+  <h3>Social Media : <h3>
    <a href="https://www.instagram.com/paulojr_r/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/paulo-junior-4a0870a0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+
  ### Studying in this moment:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
